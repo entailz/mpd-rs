@@ -5,5 +5,5 @@ work in progress.
 
 usage: 
 ```
-./mpd.rs https://127.0.0.1 <volume>
+./mpd.rs <mpd address> [volume] [playlist]
 ```
